@@ -1,0 +1,15 @@
+Tai GCC 13.2.0 cho win 64 tai day https://winlibs.com/  (dong dau tien)
+Giai nen trong dia C : C:\mingw64\bin thu muc chua cac file compilte
+Chep path C:\mingw64\bin, vo command tim env, chon edit the system environment variable
+Chon path/new va dan path vao
+Vao command prompt ghi g++ -- version/ clang++ --version
+=>cai dat thanh cong
+Tim download microsoft visual studio cai ban comunity chon C++ (minh chon them Python)
+Cai xog, vao thu muc C:\Program Files (x86)\Microsoft Visual Studio\2019\community>cl.exe thu xe ok ko
+Mo visual code, chon thu muc du an
+bam icon extention xen co c++ chua (hoac install)
+Viet file main.ccp
+menu terminal/configure task chon g++ de soan thao file tasks.json//co the chon clang, hay microsoft cl
+them dong 10 trong file nay  "-std = c++20" 
+
+
